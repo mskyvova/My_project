@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project1", "Project1\Projec
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lucistnik", "Lucistnik\Lucistnik.csproj", "{91E059B1-8114-4AEE-8213-4F8B79884BBB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Textovy_ukol", "Textovy_ukol\Textovy_ukol.csproj", "{04535EDF-3C26-404B-93E6-CC8DAA791D60}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{91E059B1-8114-4AEE-8213-4F8B79884BBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{91E059B1-8114-4AEE-8213-4F8B79884BBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{91E059B1-8114-4AEE-8213-4F8B79884BBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04535EDF-3C26-404B-93E6-CC8DAA791D60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04535EDF-3C26-404B-93E6-CC8DAA791D60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04535EDF-3C26-404B-93E6-CC8DAA791D60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04535EDF-3C26-404B-93E6-CC8DAA791D60}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
