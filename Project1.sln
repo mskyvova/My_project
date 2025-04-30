@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project1", "Project1\Project1.csproj", "{8686BE7D-54FE-4622-AB52-F57D1616C82C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lucistnik", "Lucistnik\Lucistnik.csproj", "{91E059B1-8114-4AEE-8213-4F8B79884BBB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{8686BE7D-54FE-4622-AB52-F57D1616C82C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8686BE7D-54FE-4622-AB52-F57D1616C82C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8686BE7D-54FE-4622-AB52-F57D1616C82C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91E059B1-8114-4AEE-8213-4F8B79884BBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91E059B1-8114-4AEE-8213-4F8B79884BBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91E059B1-8114-4AEE-8213-4F8B79884BBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91E059B1-8114-4AEE-8213-4F8B79884BBB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
